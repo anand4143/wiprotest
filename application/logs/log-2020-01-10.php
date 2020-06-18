@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-01-10 03:52:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-10 07:38:33 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-01-10 07:40:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-10 07:41:00 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2020-01-10 07:41:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-10 07:41:06 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2020-01-10 09:09:12 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-10 09:09:12 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-10 09:32:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-10 13:11:52 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-01-10 13:11:52 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-01-10 13:11:54 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-01-10 13:11:55 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-01-10 13:11:55 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-01-10 13:11:56 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-01-10 13:11:57 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-01-10 13:11:57 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-01-10 13:11:58 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-01-10 13:11:59 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-01-10 13:11:59 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-01-10 13:12:00 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-01-10 13:12:01 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-01-10 13:12:01 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2020-01-10 13:12:02 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-01-10 13:12:03 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-01-10 13:12:03 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-01-10 13:12:04 --> 404 Page Not Found: Sito/wp-includes

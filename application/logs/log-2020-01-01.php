@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-01-01 02:54:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-01 04:51:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-01 07:27:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-01 07:27:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-01 09:43:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-01 10:00:26 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-01 11:18:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-01 11:50:04 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-01 11:50:07 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-01 14:25:08 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-01-01 15:58:57 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-01 15:58:57 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-01 16:45:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-01 16:58:07 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-01 16:58:07 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-01 16:58:35 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-01 16:58:53 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-01 16:59:13 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-01 18:26:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-01 18:28:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-01 18:38:22 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-01-01 20:16:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-01 20:16:38 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-01-01 20:16:38 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2020-01-01 20:16:38 --> 404 Page Not Found: Blog/index
+ERROR - 2020-01-01 20:16:39 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-01-01 20:16:39 --> 404 Page Not Found: Wp/index
+ERROR - 2020-01-01 22:02:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-01 22:09:57 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2020-01-01 22:32:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-01 22:40:38 --> 404 Page Not Found: App-adstxt/index

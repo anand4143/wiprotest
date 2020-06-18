@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-01-09 00:41:12 --> 404 Page Not Found: Dadabik/program_files
+ERROR - 2020-01-09 00:42:41 --> 404 Page Not Found: Cms/login.php
+ERROR - 2020-01-09 00:44:04 --> 404 Page Not Found: Program_files/login.php
+ERROR - 2020-01-09 00:45:18 --> 404 Page Not Found: Dadabik/login.php
+ERROR - 2020-01-09 00:45:46 --> 404 Page Not Found: admin/Loginphp/index
+ERROR - 2020-01-09 01:38:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-09 03:12:23 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-09 03:12:23 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-09 03:20:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-09 03:20:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-09 03:25:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-09 04:06:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-01-09 06:00:29 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-01-09 06:32:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-09 07:23:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-09 07:40:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-09 07:41:07 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2020-01-09 07:41:51 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2020-01-09 09:10:21 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-09 09:10:21 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-09 14:53:42 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-09 14:53:42 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-09 14:53:51 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-09 14:53:51 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-09 14:54:03 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-09 14:54:08 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-09 14:54:21 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-09 21:43:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-09 23:47:46 --> 404 Page Not Found: Wp-loadphp/index

@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-01-17 00:48:16 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-01-17 01:48:30 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-01-17 03:03:32 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-17 03:03:32 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-17 05:13:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-17 06:57:52 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-17 06:57:53 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-17 07:10:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-17 07:10:39 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2020-01-17 07:20:25 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2020-01-17 08:26:43 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-01-17 08:26:55 --> 404 Page Not Found: Wp-admin/admin-post.php
+ERROR - 2020-01-17 08:45:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-17 09:42:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-17 10:35:12 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-01-17 10:35:13 --> 404 Page Not Found: Wp-admin/admin-post.php
+ERROR - 2020-01-17 11:43:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-17 12:47:53 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-01-17 12:47:54 --> 404 Page Not Found: Wp-admin/admin-post.php
+ERROR - 2020-01-17 13:41:50 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-01-17 16:12:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-01-17 16:13:02 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-01-17 16:13:02 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-01-17 16:13:04 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-01-17 16:13:04 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-01-17 21:47:15 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-17 21:47:16 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-17 23:08:46 --> 404 Page Not Found: Assets/css
+ERROR - 2020-01-17 23:08:46 --> 404 Page Not Found: Assets/css

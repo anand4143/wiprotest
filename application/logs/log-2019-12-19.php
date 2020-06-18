@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-12-19 00:09:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-19 00:09:26 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2019-12-19 01:03:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-19 01:03:39 --> 404 Page Not Found: Registerphp/index
+ERROR - 2019-12-19 02:15:06 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:15:07 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:15:52 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:15:52 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:16:01 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:16:15 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:16:16 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:16:31 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:16:31 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:16:35 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:16:35 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:18:08 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:18:08 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:18:15 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:18:15 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:19:30 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 02:19:36 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 05:38:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-19 07:05:35 --> 404 Page Not Found: Hellophp/index
+ERROR - 2019-12-19 12:28:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-19 12:28:54 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2019-12-19 19:26:21 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 19:26:22 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 20:58:17 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 20:58:18 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 22:29:59 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 22:30:00 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-19 23:29:53 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2019-12-19 23:59:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-19 23:59:53 --> 404 Page Not Found: App-adstxt/index

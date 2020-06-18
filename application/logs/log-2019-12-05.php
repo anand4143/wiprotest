@@ -1,0 +1,55 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-12-05 00:34:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-05 01:11:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-05 02:13:50 --> 404 Page Not Found: Wp-admin/admin-ajax.php
+ERROR - 2019-12-05 02:14:14 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2019-12-05 02:14:40 --> 404 Page Not Found: Wp-admin/wp-hook-ajax.php
+ERROR - 2019-12-05 02:15:03 --> 404 Page Not Found: Wp-ajax-hookphp/index
+ERROR - 2019-12-05 02:15:29 --> 404 Page Not Found: Wp-hook-ajaxphp/index
+ERROR - 2019-12-05 02:17:11 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2019-12-05 02:54:22 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2019-12-05 02:54:31 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2019-12-05 02:54:32 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2019-12-05 04:25:46 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:25:49 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:33:49 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:33:49 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:41:21 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:41:21 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:43:32 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:43:33 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:43:33 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:43:33 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:43:33 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:43:34 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:43:35 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2019-12-05 04:43:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-05 04:44:22 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:44:24 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:44:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-05 04:44:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-05 04:45:39 --> 404 Page Not Found: Usdhfus/index
+ERROR - 2019-12-05 04:45:51 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2019-12-05 04:47:24 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:47:24 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:47:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-12-05 04:50:34 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:57:50 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 04:57:51 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 05:14:41 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 05:14:41 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 05:18:05 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 05:18:49 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 05:18:49 --> 404 Page Not Found: Assets/css
+ERROR - 2019-12-05 08:02:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-05 08:41:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-05 08:42:14 --> Severity: Notice --> Undefined variable: row /home/lxcqy7q014tm/public_html/application/views/frontend/userranking/contestList.php 101
+ERROR - 2019-12-05 08:42:14 --> Severity: Notice --> Trying to get property 'id' of non-object /home/lxcqy7q014tm/public_html/application/views/frontend/userranking/contestList.php 101
+ERROR - 2019-12-05 09:25:42 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2019-12-05 10:49:00 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2019-12-05 15:04:11 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2019-12-05 21:49:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-05 21:49:53 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2019-12-05 22:39:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2019-12-05 22:44:35 --> 404 Page Not Found: App-adstxt/index
